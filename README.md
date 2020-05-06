@@ -21,6 +21,7 @@ This is a collection of all awesome resources for Mozilla Hubs
   - [Backend Application Server](https://github.com/mozilla/reticulum)
   - [Backend Communications Server](https://github.com/meetecho/janus-gateway)
   - [DevOp Scripts to deploy Hubs to Cloud](https://github.com/mozilla/hubs-ops)
+  - [Discord Bot](https://github.com/MozillaReality/hubs-discord-bot)
 
 ## Assets
 
