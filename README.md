@@ -13,6 +13,8 @@ This is a collection of all awesome resources for Mozilla Hubs
 
 - [Mozilla Hubs Website](https://hubs.mozilla.com/)
 - [Discord Channel](https://discord.com/invite/wHmY4nd)
+- [Youtube Channel](https://www.youtube.com/channel/UCb9kcMSN3arCG1oMLIiuLrA)
+- [Vimeo Channel](https://vimeo.com/user101133182)
 - [Spoke](https://hubs.mozilla.com/spoke) - Scene Creator/Editor for Hubs
 - [Documentation](https://hubs.mozilla.com/docs/welcome.html)
 - [Cloud Hosting](https://hubs.mozilla.com/cloud)
