@@ -4,6 +4,7 @@ This is a collection of all awesome resources for Mozilla Hubs
 
 - [Official](#official)
 - [Assets](#assets)
+- [Compatible Video/Streaming Hosts](#compatible-video-streaming-hosts)
 - [Tutorial](#tutorial)
 - [Documentation Translations](#documentation-translations)
 
@@ -15,6 +16,7 @@ This is a collection of all awesome resources for Mozilla Hubs
 - [Discord Channel](https://discord.com/invite/wHmY4nd)
 - [Youtube Channel](https://www.youtube.com/channel/UCb9kcMSN3arCG1oMLIiuLrA)
 - [Vimeo Channel](https://vimeo.com/user101133182)
+- [Greg Fodor Twitch](https://www.twitch.tv/gfodor/videos) - He's the lead developer on the Mozilla Hubs project
 - [Spoke](https://hubs.mozilla.com/spoke) - Scene Creator/Editor for Hubs
 - [Documentation](https://hubs.mozilla.com/docs/welcome.html)
 - [Cloud Hosting](https://hubs.mozilla.com/cloud)
@@ -31,6 +33,10 @@ This is a collection of all awesome resources for Mozilla Hubs
 - [Display Land](https://get.display.land/) - Utility to capture surroundings into scene objects
 - [Ready Player Me](https://readyplayer.me/) - Utility to capture a selfie and create a realistic avatar from it
 - [IEEE Avatar Creator](https://rhiannanberry.github.io/Avatar-Customizer/)
+
+## Compatible Video/Streaming Hosts
+- [Mux](https://mux.com/)
+- [PeerTube](https://joinpeertube.org/)
 
 ## Tutorial
 
