@@ -30,6 +30,7 @@ This is a collection of all awesome resources for Mozilla Hubs
 - [Official Asset Packs](https://hubs.mozilla.com/docs/hubs-cloud-asset-packs.html)
 - [Display Land](https://get.display.land/) - Utility to capture surroundings into scene objects
 - [Ready Player Me](https://readyplayer.me/) - Utility to capture a selfie and create a realistic avatar from it
+- [IEEE Avatar Creator](https://rhiannanberry.github.io/Avatar-Customizer/)
 
 ## Tutorial
 
