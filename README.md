@@ -4,7 +4,7 @@ This is a collection of all awesome resources for Mozilla Hubs
 
 - [Official](#official)
 - [Assets](#assets)
-- [Compatible Video/Streaming Hosts](#compatible-video-streaming-hosts)
+- [Compatible Video/Streaming Hosts](#compatible-videostreaming-hosts)
 - [Tutorial](#tutorial)
 - [Documentation Translations](#documentation-translations)
 
