@@ -5,6 +5,8 @@ This is a collection of all awesome resources for Mozilla Hubs
 - [Official](#official)
 - [Assets](#assets)
 - [Compatible Video/Streaming Hosts](#compatible-videostreaming-hosts)
+  - [Managed Services](#managed-services)
+  - [Self Hosted](#self-hosted)
 - [Tutorial](#tutorial)
 - [Documentation Translations](#documentation-translations)
 
