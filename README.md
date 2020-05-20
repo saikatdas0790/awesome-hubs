@@ -35,8 +35,15 @@ This is a collection of all awesome resources for Mozilla Hubs
 - [IEEE Avatar Creator](https://rhiannanberry.github.io/Avatar-Customizer/)
 
 ## Compatible Video/Streaming Hosts
+
+### Managed Services
 - [Mux](https://mux.com/)
 - [PeerTube](https://joinpeertube.org/)
+- [Dacast](https://www.dacast.com/)
+
+### Self Hosted
+- [Wowza Streaming Engine](https://www.wowza.com/products/streaming-engine)
+- [Nginx RTMP Module](https://github.com/arut/nginx-rtmp-module)
 
 ## Tutorial
 
