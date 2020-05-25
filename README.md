@@ -9,6 +9,7 @@ This is a collection of all awesome resources for Mozilla Hubs
   - [Self Hosted](#self-hosted)
 - [Tutorial](#tutorial)
 - [Documentation Translations](#documentation-translations)
+- [Showcase](#showcase)
 
 ---
 
@@ -54,3 +55,7 @@ This is a collection of all awesome resources for Mozilla Hubs
 ## Documentation Translations
 
 - [Ukrainian](https://docs.google.com/document/d/1-AdQC2J2By2jTHzdrYVPvL9qM9-rDQsw9Fj9QJCTznw/edit?usp=sharing) - Community contributed. Credit: Nikita Voo
+
+## Showcase
+
+[Sheets Link](https://docs.google.com/spreadsheets/d/1ljqXyxPxFUTJl4i97yxB1Z9bK3eyVAOO7ZUKTSB0hj0/edit#gid=0) - Maintained by Nikita Voo
