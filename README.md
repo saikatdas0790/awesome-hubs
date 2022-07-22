@@ -1,3 +1,5 @@
+# ⚠️ This repository is not actively maintained anymore. Please refer to https://github.com/hubs-creators/awesome-mozilla-hubs instead.
+
 # **Awesome Hubs** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a collection of all awesome resources for Mozilla Hubs
